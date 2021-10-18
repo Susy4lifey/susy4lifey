@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting a job, preferrably in the Data Analysis space
+- 🔭 I’m currently working on getting a job in Technical Support, DevOps or Data analysis
 - 🌱 I’m currently learning Amazon Web Services
 - 👯 I’m looking to collaborate on Edutech projects
 - 💬 Ask me about Tech support or Wordpress web design 
